@@ -95,7 +95,6 @@ function App() {
   const [displayName, setDisplayName] = useState("");
   const [isLoggedIn, setIsLoggedIn] = useState(false);
   const [isPairedUp, setIsPairedUp] = useState(false);
-  // const [isDemo, setIsDemo] = useState(false);
   const [email, setEmail] = useState("");
 
   const context = {
@@ -123,7 +122,6 @@ function App() {
       } else {
         // no signed-in user
         setIsLoggedIn(false);
-        console.log("Not logged In");
       }
     });
   }, []);

@@ -173,7 +173,7 @@ export function MultiFileComposer(props) {
           <option disabled selected>
             Add a main tag
           </option>
-          <option>milestone</option>
+          <option>milestones</option>
           <option>dates</option>
           <option>bucket-list</option>
         </select>

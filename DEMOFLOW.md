@@ -20,7 +20,7 @@ Contributors: Ignatius Tan, Gabriel Lim, Kenneth Lee
 - Kanban Board - Notion
 - Wireframing & User Flows - Miro
 - Communication - Slack
-- Designing - (iggy to add)
+- Designing - (iggy to add) Illustrator
 
 ## Core Features [To update]
 
@@ -60,11 +60,13 @@ Contributors: Ignatius Tan, Gabriel Lim, Kenneth Lee
 - Bucket List
 - Dates
 - Journal
+-
+- add to memories -> handover to kenneth
 
 ## Demo - Kenneth
 
 - Memories
 - Chat
--
+- signout -> show that users cannot access when signed out
 
 Challenges Faced
